@@ -19,7 +19,7 @@ Program Used: R
 
 To view or download the full report:
 
-👉 [Click here to open the HTML file](https://github.com/your-username/your-repo-name/blob/main/reports/airbnb_report.html)
+👉 [Click here to open the HTML file](https://github.com/alanaahart/AD699-Naive-Bayes-Decision-Tree/blob/main/Team-Project-consolidated-final(1).html)
 
 
 
