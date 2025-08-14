@@ -1,3 +1,5 @@
+# Predicting Airbnb Rates and Cleaning Fees with Naive Bayes and Decision Trees
+
 ## Introduction
 
 This project applies supervised and unsupervised learning techniques to Airbnb rental data from NYC, aiming to uncover patterns in pricing, cancellation policies, and neighborhood dynamics. Our team collaborated on data preparation, exploratory analysis, and modeling across several domains.
@@ -8,5 +10,16 @@ This project applies supervised and unsupervised learning techniques to Airbnb r
 
 Each model was evaluated for performance and interpretability, with attention to real-world constraints and data limitations. This report presents our findings, code, and visualization.
 
+Program Used: R 
 
-[View the full project file here](https://github.com/your-username/your-repo-name/blob/main/code/Airbnb_Pricing_Model.Rmd)
+## View the Presentation 
+[View the presentation here](https://github.com/alanaahart/AD699-Naive-Bayes-Decision-Tree/blob/main/Copy%20of%20AD699%20Team%20Project.pdf)
+
+## 📥 Download the HTML Report
+
+To view or download the full report:
+
+👉 [Click here to open the HTML file](https://github.com/your-username/your-repo-name/blob/main/reports/airbnb_report.html)
+
+
+
